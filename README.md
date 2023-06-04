@@ -2,7 +2,7 @@
 A simple rocket ship controlled with the arrow keys
 
 How to Run
-/n
+
 Ensure pipenv is installed:
 
 pip3 install --user pipenv
